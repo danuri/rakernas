@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Presensi Rakernas Kemenag 2024</title>
+	<title>Presensi Rakernas Kemenag 2023</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="description" content="Rakernas Kementerian agama tahun 2021">
 	<meta name="keywords" content="rakernas, kemenag">
@@ -373,87 +373,88 @@
 								</div>
 								<div class="resume-items">
 									<div class="resume-item border-line-h active">
-										<div class="date">14.00 – 18.00</div>
+										<div class="date">13:00</div>
                     <ol class="jadwal">
-                      <li>Registrasi Peserta dan check in Hotel (ST, SPD, Seminar Kit)</li>
+                      <li>Peserta luring melakukan Registrasi dan Check in Hotel (ST, SPD, Seminar Kit)</li>
+                      <li>Peserta daring melakukan Registrasi (e-Form)</li>
                     </ol>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">18.00 – 18.30</div>
+										<div class="date">14:00</div>
 										<p>
-											Teknis dan Tata Tertib Zoom Meeting Rakernas
+											Zoom Meeting dengan Peserta daring tentang Teknis dan Tata Tertib Zoom Meeting Rakernas
 										</p>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">18.30 – 19.30</div>
+										<div class="date">15:30</div>
 										<p>
 											Gladi resik pembukaan Rakernas (hybrid)
 										</p>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">19.30 – 21.00</div>
+										<div class="date">17:30</div>
+										<div class="name">ISTIRAHAT</div>
+									</div>
+									<div class="resume-item border-line-h active">
+										<div class="date">19:30</div>
 										<p>
 											Konsolidasi panitia pusat dan lokal
 										</p>
+									</div>
+									<div class="resume-item border-line-h active">
+										<div class="date">17:30</div>
+										<div class="name">ISTIRAHAT</div>
 									</div>
 								</div>
 							</div>
 							<div class="col col-d-12 col-t-12 col-m-12 border-line-v">
 								<div class="resume-title border-line-h">
 									<div class="icon"><i class="fa fa-briefcase"></i></div>
-									<div class="name">Hari Pertama, Senin 05 Februari 2024</div>
+									<div class="name">Hari Pertama, Sabtu 04 Februari 2022</div>
 								</div>
 								<div class="resume-items">
 									<div class="resume-item border-line-h active">
 										<div class="date">07:30</div>
 										<p><b>Absensi</b></p>
 										<ul class="jadwal">
-											<li>Peserta memasuki ruang rapat (Absensi Peserta)</li>
+											<li>Login ke Link tersedia (daring)</li>
+											<li>Peserta luring memasuki ruang rapat</li>
 										</ul>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">08:00</div>
+										<div class="date">08:30</div>
 										<p>Menteri Agama memasuki Ruang Rapat didampingi Sekretaris Jenderal</p>
-										<p><i>*(diiringi dengan Tarian Selamat Datang)</i></p>
+										<p><i>*(diiringi dengan Tarian Selamat Datang oleh satuan kerja Madrasah)</i></p>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">08.20</div>
+										<div class="date">08.50</div>
 										<p>
 											Menyanyikan Lagu Indonesia Raya dan Mars Kemenag
 										</p>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">08.30</div>
-										<p>
-											Pembacaan Ayat Suci Al-Qur’an
-										</p>
-									</div>
-									<div class="resume-item border-line-h active">
-										<div class="date">08.40</div>
+										<div class="date">09.00</div>
 										<p>
 											Do’a (Islam, Kristen, Katolik, Hindu, Buddha, Khonghucu)
 										</p>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">09:00</div>
-										<p>Laporan Pembukaan Penyelenggara Rakernas Kementerian Agama 2024 Oleh Sekretaris Jenderal</p>
+										<div class="date">19:15</div>
+										<p>Laporan Pembukaan Penyelenggara Rakernas Kementerian Agama 2023 Oleh Sekretaris Jenderal</p>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">09:15</div>
+										<div class="date">09:30</div>
+										<div class="name">Dr. H. Ashabul Kahfi, M.Ag.</div>
 										<p>Sambutan Ketua Komisi VIII DPR RI</p>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">09.30</div>
-										<div class="name">Tayangan Video Derap Langkah Gusmen (Capaian Kementerian Agama 2019-2023)</div>
-									</div>
-                  <div class="resume-item border-line-h active">
-										<div class="date">09:40</div>
-										<div class="name">Menteri Agama</div>
-										<p>Arahan dan Pembukaan Rakernas 2024 oleh Menteri Agama</p>
-                    <i>“Transformasi Layanan Keagamaan dan Keberagaman Menuju Indonesia Emas 2045”</i>
+										<div class="date">09.45</div>
+										<div class="name">Tayangan Video Dua Tahun Gusmen</div>
+										<p>Arahan Kebijakan dan Pembukaan Rakernas 2023 oleh <b>Menteri Agama</b></p>
+										<p>Materi: Menjadikan Moderasi Beragama dalam Mengelola Keberagaman dan Kemajemukan Bangsa Menuju Indonesia Hebat </p>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">10:00</div>
+										<div class="date">10:30</div>
 										<div class="name">Menteri Agama</div>
 										<p>Photo Bersama Menteri Agama</p>
 										<ol class="jadwal">
@@ -465,24 +466,20 @@
 											<li>Biro Organisasi dan Tata Laksana</li>
 										</0l>
 									</div>
-                  <div class="resume-item border-line-h active">
-										<div class="date">11.30</div>
-										<div class="name"><b>Video:</b> Outlook Kementerian Agama 2024</div>
-									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">11.35</div>
+										<div class="date">11.30</div>
 										<p>
 											<b>SESI I:</b>
 											<br>
-											Capaian Kinerja Kementerian Agama 2023 dan Strategi Kinerja 2024
+											“Kebijakan Fiskal APBN 2023 Pada Fungsi Agama dan Fungsi Pendidikan”
 										</p>
-										<div class="name">Prof. Dr. H. Nizar, M.Ag. (Sekretaris Jenderal)</div>
+										<div class="name">Menteri Keuangan</div>
 										<div class="company">Narasumber</div>
-										<div class="name">Kepala Pusbimdik Khonghucu</div>
+										<div class="name">Drs. H. Subarja, M.Pd. (Kepala Biro Keuangan dan BMN)</div>
 										<div class="company">Moderator</div>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">12.00</div>
+										<div class="date">12.30</div>
 										<div class="name">ISHOMA</div>
 									</div>
 									<div class="resume-item border-line-h active">
@@ -490,54 +487,88 @@
 										<p>
 											<b>SESI II:</b>
 											<br>
-											“Capaian Kinerja Program 2023, Strategi Kinerja 2024 dan Rancangan Kebijakan 2025-2029”
+											“Sasaran Pembangunan Nasional Dalam Rangka Penguatan Moderasi Beragamaan”
 										</p>
-                    <div class="name">Direktur Jenderal Pendidikan Islam</div>
-										<div class="name">Direktur Jenderal Bimas Islam</div>
-										<div class="name">Direktur Jenderal Bimas Kristen</div>
-										<div class="name">Direktur Jenderal Bimas Katolik</div>
-										<div class="name">Direktur Jenderal Bimas Hindu</div>
-										<div class="name">Direktur Jenderal Bimas Buddha</div>
-										<div class="company">Narasumber (Panel)</div>
-										<div class="name">Kepala PKUB</div>
+										<div class="name">Menteri PPN/Kepala BAPPENAS</div>
+										<div class="company">Narasumber</div>
+										<div class="name">Dr. Ahmad Bahiej, SH., M.Hum (Kepala Biro Hukum dan KLN)</div>
 										<div class="company">Moderator</div>
 									</div>
-                  <div class="resume-item border-line-h active">
+									<div class="resume-item border-line-h active">
+										<div class="date">14.30</div>
+										<p>
+											<b>SESI III:</b>
+											<br>
+											“Implementasi Penyederhanaan Birokrasi: Upaya peningkatan Pelayanan Publik dalam Sistem Kerja Baru dan SDM yang Kompeten dan Berkinerja Tinggi”
+										</p>
+										<div class="name">Menteri PAN-RB RI</div>
+										<div class="company">Narasumber</div>
+										<div class="name">Dr. Syafi'i, M.Ag (Kepala Pusdiklat Tenaga Administrasi)</div>
+										<div class="company">Moderator</div>
+									</div>
+									<div class="resume-item border-line-h active">
 										<div class="date">15.30</div>
-										<div class="name">Pentas Seni</div>
+										<div class="name">COFFEE BREAK</div>
 									</div>
 									<div class="resume-item border-line-h active">
 										<div class="date">15.45</div>
 										<p>
-											<b>SESI III:</b>
+											<b>SESI IV:</b>
 											<br>
-											“Capaian Kinerja Program 2023, Strategi Kinerja 2024 dan Rancangan Kebijakan 2025-2029”
+											“Peningkatan Profesionalisme dalam rangka meningkatkan Mutu Aparatur Sipil Negara Kementerian Agama”
 										</p>
-										<div class="name">Inspektur Jenderal</div>
-										<div class="name">Kepala Badan Litbang dan Diklat</div>
-										<div class="company">Narasumber (Panel 2)</div>
-										<div class="name">Sekretaris Inspektorat Jenderal</div>
+										<div class="name">Dr. Mustari Irawan, M.P.A. (Komisi Aparatur Sipil Negara)</div>
+										<div class="company">Narasumber</div>
+										<div class="name">Dr. Nurudin, MA (Kepala Biro Kepegawaian)</div>
 										<div class="company">Moderator</div>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">17.00</div>
+										<div class="date">16.45</div>
+										<p>
+											<b>SESI V:</b>
+											<br>
+											“Merajut Kerukunan Umat Beragama Menuju Indonesia Hebat”
+										</p>
+										<div class="name">KH. Yahya Cholil Staquf (Ketua PBNU)</div>
+										<div class="company">Narasumber</div>
+										<div class="name">Dr. H. Wawan Djunaedi, M.A (Kepala Pusat Kerukunan Umat Beragama)</div>
+										<div class="company">Moderator</div>
+									</div>
+									<div class="resume-item border-line-h active">
+										<div class="date">17.45</div>
 										<div class="name">ISHOMA</div>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">19.00</div>
+										<div class="date">19.30</div>
+										<div class="name">Video Testimoni/Harapan Masyarakat Terhadap Pelayanan Kemenag</div>
+									</div>
+									<div class="resume-item border-line-h active">
+										<div class="date">20.00</div>
 										<p>
-											<b>SESI IV:</b>
+											<b>SESI VI:</b>
 											<br>
-											“Capaian Kinerja Program 2023, Strategi Kinerja 2024 dan Rancangan Kebijakan 2025-2029”
+											“Capaian Kinerja Kementerian Agama 2022 dan Strategi Peningkatan Kinerja 2023”
 										</p>
-										<div class="name">Direktur Jenderal PHU</div>
-										<div class="name">Kepala BPJPH</div>
-										<div class="company">Narasumber (Panel 3)</div>
-										<div class="name">Koordinator Staf Khusus Menteri Agama</div>
+										<div class="name">Prof. Dr. H. Nizar, M.Ag. (Sekretaris Jenderal)</div>
+										<div class="company">Narasumber</div>
+										<div class="name">H. Ramadhan Harisman, S.T., M.B.A (Kepala Biro Perencanaan)</div>
 										<div class="company">Moderator</div>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">20:30</div>
+										<div class="date">21.00</div>
+										<p>
+											<b>SESI VII:</b>
+											<br>
+											Program Prioritas Pencapaian Visi dan outlook 2023
+										</p>
+										<div class="name">Inspektur Jenderal</div>
+										<div class="name">Kepala Badan Litbang dan Diklat</div>
+										<div class="company">Narasumber (Panel)</div>
+										<div class="name">Kastolan, S.Pd., M.Si (Plt. Sekretaris Inspektorat Jenderal)</div>
+										<div class="company">Moderator</div>
+									</div>
+									<div class="resume-item border-line-h active">
+										<div class="date">22:00</div>
 										<div class="name">ISTIRAHAT</div>
 									</div>
 								</div>
@@ -545,106 +576,81 @@
 							<div class="col col-d-12 col-t-12 col-m-12 border-line-v">
 								<div class="resume-title border-line-h">
 									<div class="icon"><i class="fa fa-briefcase"></i></div>
-									<div class="name">Hari Kedua, Selasa 06 Feberuari 2024</div>
+									<div class="name">Hari Kedua, Minggu 05 Feberuari 2023</div>
 								</div>
 								<div class="resume-items">
 									<div class="resume-item border-line-h active">
-										<div class="date">07:00</div>
-										<p>Absensi Peserta</p>
+										<div class="date">07:30</div>
+										<p>Login Peserta daring dan absensi Peserta luring memasuki ruang rapat</p>
 									</div>
 									<div class="resume-item border-line-h active">
 										<div class="date">08.00</div>
 										<p>
-											<b>SESI V:</b>
+											<b>SESI VIII:</b>
 											<br>
-											“Kontribusi Peran Agama Dalam Program Prioritas Presiden: Rasionalisasi Anggaran Fungsi Agama Dan Pendidikan Keagamaan”
+											Program Prioritas Pencapaian Visi dan Outlook 2023
 										</p>
-										<div class="name">Menteri Keuangan</div>
+										<div class="name">Direktur Jenderal Bimas Islam</div>
+										<div class="name">Direktur Jenderal Bimas Kristen</div>
+										<div class="name">Direktur Jenderal Bimas Katolik</div>
+										<div class="name">Direktur Jenderal Bimas Hindu</div>
+										<div class="name">Direktur Jenderal Bimas Buddha</div>
 										<div class="company">Narasumber (Panel)</div>
-										<div class="name">Kepala Biro Keuangan dan BMN</div>
+										<div class="name">Dr. Thobib Al Asyhar, S.Ag, M.Si. (Direktorat Diktis Ditjen Pendidikan Islam)</div>
 										<div class="company">Moderator</div>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">09:00</div>
+										<div class="date">10:30</div>
 										<div class="name">COFFEE BREAK</div>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">09.30</div>
+										<div class="date">10.45</div>
 										<p>
-											<b>SESI VI:</b>
+											<b>SESI IX:</b>
 											<br>
-											“Rancangan Teknokratik (RPJPN) Menuju Indonesia Emas 2045 Bidang Keagamaan”
+											Program Prioritas Pencapaian Visi dan Outlook 2023
 										</p>
-										<div class="name">Menteri PPN/Kepala BAPPENAS</div>
+										<div class="name">Direktur Jenderal PHU</div>
+										<div class="name">Direktur Jenderal Pendidikan Islam</div>
+										<div class="name">Kepala BPJPH</div>
 										<div class="company">Narasumber (Panel)</div>
-										<div class="name">Kepala Biro Perencanaan</div>
+										<div class="name">Dr. H. Mastuki, M.Ag (Kapus Diklat Teknis)</div>
 										<div class="company">Moderator</div>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">10.30</div>
-										<div class="name">Pentas Seni</div>
-									</div>
-                  <div class="resume-item border-line-h active">
-										<div class="date">11.00</div>
-										<p>
-											<b>SESI VII:</b>
-											<br>
-											“Kontribusi Fungsi Agama Pada Capaian Reformasi Birokrasi Tematik”
-										</p>
-										<div class="name">Menteri PAN-RB</div>
-										<div class="company">Narasumber (Panel)</div>
-										<div class="name">Kepala Biro Ortala</div>
-										<div class="company">Moderator</div>
-									</div>
-									<div class="resume-item border-line-h active">
-										<div class="date">12.00</div>
+										<div class="date">12.15</div>
 										<div class="name">ISHOMA</div>
 									</div>
 									<div class="resume-item border-line-h active">
 										<div class="date">13.30</div>
 										<p>
-											<b>SESI VIII:</b>
+											<b>SESI X:</b>
 											<br>
-											“Percepatan Transformasi Sistem Pemerintahan Berbasis Elektronik”
+											Evaluasi dan Strategi Penguatan Moderasi Beragama ditengah perubahan demografi masyarakat Indonesia
+											<br>
+											<i>*Dialog Interaktif dengan peserta, dipandu oleh MC</i>
 										</p>
-										<div class="name">Menteri Kominfo</div>
-                    <div class="company">Narasumber</div>
-										<div class="name">Kepala Biro HDI</div>
+										<div class="name">1. Alisa Wahid (Founder Wahid Institute)</div>
+										<div class="name">2. Hasanuddin Ali (Tenaga Ahli)</div>
+										<div class="name">Prof. Dr. Ahmad Zainul Hamdi, M.Ag (Direktur Pendidikan Tinggi Keagamaan Islam)</div>
 										<div class="company">Moderator</div>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">14.00</div>
-										<div class="name">Pentas Seni</div>
-									</div>
-                  <div class="resume-item border-line-h active">
-										<div class="date">14.15</div>
-										<p>
-											<b>SESI IX:</b>
-											<br>
-											“Transformasi Layanan Keagamaan”
-										</p>
-										<div class="name">Ombudsman RI</div>
-										<div class="name">Ketua Umum PBNU</div>
-										<div class="company">Narasumber</div>
-                    <div class="name">Tenaga Ahli Menteri Agama Bidang Analisis Pengembangan Kementerian dan Lembaga</div>
-										<div class="company">Moderator</div>
-									</div>
-                  <div class="resume-item border-line-h active">
 										<div class="date">15.00</div>
-										<div class="name">Coffee Break</div>
+										<div class="name">ISTIRAHAT</div>
 									</div>
 									<div class="resume-item border-line-h active">
-										<div class="date">15:30</div>
+										<div class="date">09:00</div>
 										<p>
-											<b>Sidang Komisi: (Outlook 2024)</b>
+											<b>Sidang Komisi:</b>
 										</p>
 										<p>
 											<div class="name">Komisi 1 : Layanan Keagamaan</div>
 											<div class="company">(Ketua Komisi: Kakanwil Kemenag Prov. Kalimantan Selatan)</div>
 											<div class="name">Komisi 2 : Layanan Pendidikan</div>
-											<div class="company">(Ketua Komisi: Rektor UIN Mataram)</div>
+											<div class="company">(Ketua Komisi: Rektor UIN Sunan Gunung Djati Bandung)</div>
 											<div class="name">Komisi 3 : Transformasi Pengawasan dan Kediklatan</div>
-											<div class="company">(Ketua Komisi: Inspektur Wilayah III)</div>
+											<div class="company">(Ketua Komisi: Inspektur Jenderal Kementerian Agama)</div>
 										</p>
 									</div>
 									<div class="resume-item border-line-h active">
@@ -658,16 +664,16 @@
 									<div class="resume-item border-line-h active">
 										<div class="date">20.30</div>
 										<p>
-											Penyampaian Rekomendasi Hasil Rakernas 2024 dan Penandatanganan Komitmen Pelaksanaan Hasil Rakernas 2024
+											Penyampaian Rekomendasi Hasil Rakernas 2023 dan Penandatanganan Komitmen Pelaksanaan Hasil Rakernas 2023
 										</p>
 										<p>
 											Diwakili:
 											<ol class="jadwal">
-												<li>Rektor UIN</li>
-												<li>Kakanwil Kemenag Provinsi</li>
+												<li>Rektor UIN Sunan Gunung Djati Bandung</li>
+												<li>Kakanwil Kemenag Prov. Kalimantan Selatan, dan</li>
 												<li>Inspektur Jenderal Kementerian Agama</li>
 											</ol>
-											Dibacakan oleh Kepala Biro Umum Sekretariat Jenderal
+											Dibacakan oleh Dr. H. Muhammad Tambrin, M.Pd (Kakanwil Kemenag Prov. Kalimantan Selatan)
 										</p>
 									</div>
 									<div class="resume-item border-line-h active">
@@ -677,10 +683,10 @@
 										</p>
 										<p>
 											<ol class="jadwal">
-												<li>Laporan Penutupan Penyelenggara Rakernas 2024 oleh Sekretaris Jenderal </li>
+												<li>Laporan Penutupan Penyelenggara Rakernas 2023 oleh Sekretaris Jenderal </li>
 												<li>Arahan Kebijakan dan Penutupan Rakernas oleh Wakil Menteri Agama </li>
 											</ol>
-											Materi : <i>Highlighted Issues</i> Agama dan Keagamaan 2024
+											Materi : <i>Highlighted Issues</i> Agama dan Keagamaan 2023
 										</p>
 									</div>
 								</div>
@@ -688,7 +694,7 @@
 							<div class="col col-d-12 col-t-12 col-m-12 border-line-v">
 								<div class="resume-title border-line-h">
 									<div class="icon"><i class="fa fa-briefcase"></i></div>
-									<div class="name">H+1 (Penyelesaian Administrasi) – Rabu, 07 Februari 2024</div>
+									<div class="name">H+1 (Penyelesaian Administrasi) – Senin, 06 Februari 2023</div>
 								</div>
 								<div class="resume-items">
 									<div class="resume-item border-line-h active">
@@ -720,13 +726,18 @@
 						<!-- title -->
 						<div class="title">Akses Zoom Meeting</div>
 						<p>Selama proses pembukaan, materi narasumber dan penutupan (hari kesatu, kedua dan ketiga) menggunakan akses berikut:</p>
-						<p>Meeting ID: <b>..........</b><br>Passcode: <b>......</b></p>
+						<p>Meeting ID: <b>811 1984 1734</b><br>Passcode: <b>rakernas</b></p>
 						<p>
 							<ul class="zoom">
-								<li>Penulisan nama akun zoom menggunakan format sebagai berikut: Nama Jabatan_Nama Pribadi</li>
+								<li>Penulisan nama akun zoom menggunakan format sebagai berikut: Nama Jabatan_Nama Pribadi (contoh: <b>Kakanwil Prov Sumbar_Dr. H. HELMI, M.Ag</b>)</li>
 								<li>Apabila Format nama tidak sesuai ketentuan, maka TIDAK akan diperkenankan memasuki <i>zoom meeting</i>.</li>
 								<li>Selama mengikuti zoom meeting seluruh peserta diharapkan menjaga lingkungan sekitar tetap kondusif dan menggunakan fitur mute microphone serta selalu menyalakan video</li>
-								<li>Dresscode menyesuaikan.</li>
+								<li>Dresscode peserta selama acara sebagai berikut:
+									<ol class="jadwal">
+										<li>Hari Senin pagi : Kemeja putih lengan panjang</li>
+										<li>Hari Senin malam s.d. Selasa : Kemeja batik lengan panjang.</li>
+									</ol>
+								</li>
 							</ul>
 						</p>
 					</div>
@@ -754,13 +765,15 @@
 								<h4>Panitia Pelaksana</h4>
 								<div class="info-list">
 									<ul>
-										<li><strong>Sdri. Yuka</strong> <a href="tel:081311471723">081359160405</a></li>
+										<li><strong>Luqman Hakim</strong> <a href="tel:08129268932">08129268932</a></li>
+										<li><strong>Muhammad Su'bi</strong> <a href="tel:081311471723">081311471723</a></li>
 									</ul>
 								</div>
 								<h4>Teknisi IT</h4>
 								<div class="info-list">
 									<ul>
-										<li><strong>Sdr. Wildan Afandi</strong> <a href="tel:08561515014">08561515014</a></li>
+										<li><strong>Irfan Sembiring</strong> <a href="tel:081311099008">081311099008</a></li>
+										<li><strong>Wildan Afandi</strong> <a href="tel:08561515014">08561515014</a></li>
 									</ul>
 								</div>
 							</div>
