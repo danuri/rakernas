@@ -165,7 +165,7 @@
 				<div class="profile no-photo">
 
 					<!-- profile image -->
-					<div class="slide" style="background-image: url(<?= base_url();?>assets/images/rakernas2023.png);"></div>
+					<div class="slide" style="background-image: url(<?= base_url();?>assets/images/rakernas2024.png);"></div>
 
 					<!-- profile titles -->
 					<div class="title"><?= session('nama');?></div>
@@ -219,13 +219,13 @@
                   </thead>
                   <tbody>
                     <tr>
-                      <td>Jum'at, 03 Februari 2023</td>
+                      <td>Minggu, 04 Februari 2024</td>
                       <td>
 												<?php
 												if($peserta->checkin_1){
 													echo $peserta->checkin_1;
 												}else{
-													if(date('Ymd') == '20230203'){
+													if(date('Ymd') == '20240204'){
 														echo '<a href="'.site_url('home/checkin').'" class="button">Mulai</a> ';
 													}else{
 														echo 'Belum Tersedia';
@@ -238,7 +238,7 @@
 												if($peserta->checkout_1){
 													echo $peserta->checkout_1;
 												}else{
-													if(date('Ymd') == '20230203'){
+													if(date('Ymd') == '20240204'){
 														echo '<a href="'.site_url('home/checkout').'" class="button">Selesai</a>';
 													}else{
 														echo 'Belum Tersedia';
@@ -248,13 +248,13 @@
 											</td>
                     </tr>
                     <tr>
-                      <td>Sabtu, 04 Februari 2023</td>
+                      <td>Senin, 05 Februari 2024</td>
                       <td>
 												<?php
 												if($peserta->checkin_2){
 													echo $peserta->checkin_2;
 												}else{
-													if(date('Ymd') == '20230204'){
+													if(date('Ymd') == '20240205'){
 														echo '<a href="'.site_url('home/checkin').'" class="button">Mulai</a> ';
 													}else{
 														echo 'Belum Tersedia';
@@ -267,7 +267,7 @@
 												if($peserta->checkout_2){
 													echo $peserta->checkout_2;
 												}else{
-													if(date('Ymd') == '20230204'){
+													if(date('Ymd') == '20240205'){
 														echo '<a href="'.site_url('home/checkout').'" class="button">Selesai</a>';
 													}else{
 														echo 'Belum Tersedia';
@@ -277,13 +277,13 @@
 											</td>
                     </tr>
                     <tr>
-                      <td>Minggu, 05 Februari 2023</td>
+                      <td>Selasa, 06 Februari 2024</td>
 											<td>
 												<?php
 												if($peserta->checkin_3){
 													echo $peserta->checkin_3;
 												}else{
-													if(date('Ymd') == '20230205'){
+													if(date('Ymd') == '20240206'){
 														echo '<a href="'.site_url('home/checkin').'" class="button">Mulai</a>';
 													}else{
 														echo 'Belum Tersedia';
@@ -296,7 +296,7 @@
 												if($peserta->checkout_3){
 													echo $peserta->checkout_3;
 												}else{
-													if(date('Ymd') == '20230205'){
+													if(date('Ymd') == '20240206'){
 														echo '<a href="'.site_url('home/checkout').'" class="button">Selesai</a>';
 													}else{
 														echo 'Belum Tersedia';
@@ -369,7 +369,7 @@
 							<div class="col col-d-12 col-t-12 col-m-12 border-line-v">
 								<div class="resume-title border-line-h">
 									<div class="icon"><i class="fa fa-briefcase"></i></div>
-									<div class="name">H-1 (Persiapan), Jum'at 03 Februari 2022</div>
+									<div class="name">H-1 (Persiapan), Minggu 04 Februari 2024</div>
 								</div>
 								<div class="resume-items">
 									<div class="resume-item border-line-h active">
