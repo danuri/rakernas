@@ -5,9 +5,9 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Presensi Rakernas Kemenag 2024</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta name="description" content="Rakernas Kementerian agama tahun 2021">
+	<meta name="description" content="Rakernas Kementerian agama tahun 2024">
 	<meta name="keywords" content="rakernas, kemenag">
-	<meta name="author" content="danualbantani">
+	<meta name="author" content="danunih">
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 
@@ -44,7 +44,7 @@
 	<!--
 		Favicons
 	-->
-	<link rel="shortcut icon" href="<?= base_url();?>assets/images/favicons/favicon.ico">
+	<link rel="shortcut icon" href="https://kemenag.go.id/assets/imgs/theme/favicon.png">
   <style media="screen">
     ol.jadwal {
       list-style: decimal;

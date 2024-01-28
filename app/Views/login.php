@@ -44,7 +44,7 @@
 	<!--
 		Favicons
 	-->
-	<link rel="shortcut icon" href="<?= base_url();?>images/favicons/favicon.ico">
+	<link rel="shortcut icon" href="https://kemenag.go.id/assets/imgs/theme/favicon.png">
 </head>
 
 <body>
