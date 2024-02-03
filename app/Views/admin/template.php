@@ -193,6 +193,11 @@
                             </a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link menu-link" href="<?= site_url('admin/jadwal')?>" role="button" aria-expanded="false" aria-controls="sidebarDashboards">
+                                <i class="ri-dashboard-2-line"></i> <span data-key="t-dashboards">Jadwal Kegiatan</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link menu-link" href="<?= site_url('admin/setting')?>" role="button" aria-expanded="false" aria-controls="sidebarDashboards">
                                 <i class="ri-dashboard-2-line"></i> <span data-key="t-dashboards">Pengaturan</span>
                             </a>
