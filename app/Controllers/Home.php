@@ -14,6 +14,8 @@ class Home extends BaseController
 
     public function checkin()
     {
+      $time->setTimezone('Asia/Jakarta');
+
       $model = new PesertaModel;
 
       if(date('Ymd') == '20240204'){
@@ -35,6 +37,8 @@ class Home extends BaseController
 
     public function checkout()
     {
+      $time->setTimezone('Asia/Jakarta');
+      
       $model = new PesertaModel;
 
       if(date('Ymd') == '20240204'){
