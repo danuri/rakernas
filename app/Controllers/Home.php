@@ -14,6 +14,8 @@ class Home extends BaseController
 
     public function checkin()
     {
+      date_default_timezone_set('Asia/Jakarta');
+      
       $model = new PesertaModel;
 
       if(date('Ymd') == '20240204'){
