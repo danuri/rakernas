@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Controllers;
+use CodeIgniter\I18n\Time;
 use App\Models\PesertaModel;
 
 class Home extends BaseController
@@ -38,7 +39,7 @@ class Home extends BaseController
     public function checkout()
     {
       $time->setTimezone('Asia/Jakarta');
-      
+
       $model = new PesertaModel;
 
       if(date('Ymd') == '20240204'){
