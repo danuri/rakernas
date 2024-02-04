@@ -8,7 +8,7 @@ class Home extends BaseController
     public function index(): string
     {
         $model = new PesertaModel;
-        $data['peserta'] = $model->find(1);
+        $data['peserta'] = $model->where(['nip'=>session('nip')])->first();
         return view('index', $data);
     }
 
@@ -36,7 +36,7 @@ class Home extends BaseController
     public function checkout()
     {
       $model = new PesertaModel;
-      
+
       if(date('Ymd') == '20240204'){
         $param = array('checkout_1' => date('Y-m-d H:i:s'));
       }else if(date('Ymd') == '20240205'){
