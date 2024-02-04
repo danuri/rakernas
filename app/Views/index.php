@@ -310,7 +310,7 @@
 							</div>
 							<div class="clear"></div>
 						</div>
-						<div class="row">
+						<!-- <div class="row">
 							<div class="col col-d-12 col-t-12 col-m-12 border-line-v">
 							<div class="title">Surat Tugas</div>
 							<?php
@@ -341,7 +341,7 @@
 
 								</form>
 							</div>
-						</div>
+						</div> -->
 
 					</div>
 
