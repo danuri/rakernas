@@ -5,58 +5,26 @@ namespace App\Controllers\Admin;
 use App\Controllers\BaseController;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
-use \Hermawan\DataTables\DataTable;
+use App\Libraries\GroceryCrud;
 use App\Models\PesertaModel;
 
 class Peserta extends BaseController
 {
     public function index()
     {
-        return view('admin/peserta');
-    }
+        $crud = new GroceryCrud();
 
-    public function getdata()
-    {
-      $model = new PesertaModel;
+        $crud->setTable('peserta')
+        ->setSubject('Peserta', 'Peserta')
+        ->columns(['nip', 'nama', 'nomor', 'jabatan', 'pangkat', 'keterangan','sesi_1','sesi_2','sesi_3','sesi_4','sesi_5','sesi_6','sesi_7','sesi_8'])
+        ->displayAs('nip', 'NIP')
+        ->fields(['nip', 'nama', 'nomor', 'jabatan', 'pangkat', 'keterangan'])
+        ->editFields(['nip', 'nama', 'nomor', 'jabatan', 'pangkat', 'keterangan','sesi_1','sesi_2','sesi_3','sesi_4','sesi_5','sesi_6','sesi_7','sesi_8'])
+        ->requiredFields(['nip', 'nama', 'jabatan']);
 
-      return DataTable::of($model)
-      ->add('action', function($row){
-          return '<a href="javascript:;" type="button" class="btn btn-primary btn-sm" onclick="edit(\''.$row->id.'\')">Edit</a>';
-      })
-      ->toJson(true);
-    }
+        $output = $crud->render();
 
-    public function getpeserta($id)
-    {
-      $model = new PesertaModel;
-      $find = $model->find($id);
-
-      return $this->response->setJSON($find);
-    }
-
-    public function addpeserta()
-    {
-      $model = new PesertaModel;
-      $param = [
-        'nip' => $this->request->getVar('nip'),
-        'nama' => $this->request->getVar('nama'),
-        'jabatan' => $this->request->getVar('jabatan'),
-        'nomor' => $this->request->getVar('nomor'),
-      ];
-      $insert = $model->insert($param);
-
-      echo 'success';
-    }
-
-    public function updatepeserta()
-    {
-      $model = new PesertaModel;
-      $param = [
-        'nomor' => $this->request->getVar('nomor'),
-      ];
-      $insert = $model->update($this->request->getVar('id'),$param);
-
-      echo 'success';
+        return view('admin/peserta', (array)$output);
     }
 
     public function import()
